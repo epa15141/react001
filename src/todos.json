@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title": "Tarea1",
+            "responsible": "admin",
+            "description": "Leer",
+            "priority": "low"
+        },
+        {
+            "title": "Tarea2",
+            "responsible": "User1",
+            "description": "Escribir",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarea3",
+            "responsible": "User2",
+            "description": "aprender codigo",
+            "priority": "high"
+        }
+    ]
+}
